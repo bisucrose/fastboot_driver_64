@@ -18,11 +18,11 @@
 
 如果上述方法安装失败，可能是你的设备太新，这时候进入设备管理器打开硬件，选择更新驱动程序，点击**浏览我的电脑以查找驱动程序**，选择刚刚的驱动文件夹，安装驱动
 
-![手动安装](.\Readme\image-20251206172410731.png)
+<img src=".\Readme\image-20251206172410731.png" alt="手动安装" style="zoom:50%;" />
 
-![image-20251206172552344](.\Readme\image-20251206172552344.png)
+<img src=".\Readme\image-20251206172552344.png" alt="image-20251206172552344" style="zoom:50%;" />
 
-![image-20251206172624451](.\Readme\image-20251206172624451.png)
+<img src=".\Readme\image-20251206172624451.png" alt="image-20251206172624451" style="zoom:50%;" />
 
 这样就安装上了。
 
@@ -34,11 +34,11 @@
 
 - 跟随方案二到达下图，点击下面的**让我从计算机上的可用驱动程序列表中选取**：
 
-  ![image-20251206172552344](.\Readme\image-20251206172552344.png)
+  <img src="./Readme/image-20251206174522762.png" alt="1" style="zoom:50%;" />
 
-- 点击显示所有设备：![image-20251206173037921](.\Readme\image-20251206173037921.png)
+- 点击显示所有设备：<img src=".\Readme\image-20251206173037921.png" alt="image-20251206173037921" style="zoom:50%;" />
 
-- 点击从磁盘安装，选择fastboot驱动文件夹，再选择`android_winusb.inf`，从下面的列表里面选择 Android BootLoader Interface ![image-20251206173259416](.\Readme\image-20251206173259416.png)
+- 点击从磁盘安装，选择fastboot驱动文件夹，再选择`android_winusb.inf`，从下面的列表里面选择 Android BootLoader Interface <img src=".\Readme\image-20251206173259416.png" alt="image-20251206173259416" style="zoom:50%;" />
 
   点击安装即可
 
